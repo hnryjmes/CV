@@ -1,6 +1,6 @@
 ## Henry Cooksley
 
-![Profile Picture](https://github.com/hnryjmes/CV/blob/master/assets/Henry%20profile%20picture.jpg?raw=true&s=200)
+![Profile Picture](https://github.com/hnryjmes/CV/blob/master/assets/Henry%20profile%20picture.jpg?raw=true&s=100)
 
 Fellow at Makers, learning principles of modern software development in an intensive 12-week bootcamp. Former Android developer intern, teaching assistant, nonprofit cofounder. University of Bristol graduate. Looking for a first junior developer role. Interested in AI and what's coming next.
 
