@@ -58,9 +58,12 @@ I enjoy writing and blogging, having done so for a number of years, as well as r
 
 **Waymont Consulting Ltd, Guildford, UK** (June 2012 - August 2012)    
 *Software Development Internship*  
+
 **Take Note Ltd, London, UK** (June 2017 - May 2018)   
 *Freelance Consultant*
+
 **ImmerQi, Guangdong, China** (February 2014 - July 2014)
 *China TEFL Internship*
+
 **North London Collegiate School Jeju, Jeju-do, Korea** (May 2013 - July 2013)
 *Student Teaching Assistant*
