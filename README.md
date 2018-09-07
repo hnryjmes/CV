@@ -67,3 +67,5 @@ I enjoy writing and blogging, having done so for a number of years, as well as r
 
 **North London Collegiate School Jeju, Jeju-do, Korea** (May 2013 - July 2013)
 *Student Teaching Assistant*
+
+For a comprehensive list of achievements and work experience, please see my [LinkedIn](https://www.linkedin.com/in/henrycooksley/).
