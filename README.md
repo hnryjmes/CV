@@ -24,9 +24,9 @@ I have been following the technology industry for over a decade, witnessing the 
 
 I enjoy writing and blogging, having done so for a number of years, as well as reading and reviewing books, primarily philosophy, science and social science. I am also a film photographer and digital artist.
 
-- Blog, currently at Medium since 2018 (https://medium.com/@hnryjmes), and on WordPress pre-2014 (please ask for link!).
-- Photography and art website (http://henrycooksley.com)
-- Goodreads profile (https://www.goodreads.com/user/show/72204726-henry-cooksley)
+- [Blog](https://medium.com/@hnryjmes), currently at Medium since 2018, and on WordPress pre-2014 (please ask for link!).
+- [Photography and art website](http://henrycooksley.com)
+- [Goodreads profile](https://www.goodreads.com/user/show/72204726-henry-cooksley)
 
 
 ## *Education*
@@ -56,6 +56,8 @@ I enjoy writing and blogging, having done so for a number of years, as well as r
 
 ## *Experience*
 
+For a comprehensive list of achievements and work experience, please see my [LinkedIn](https://www.linkedin.com/in/henrycooksley/).
+
 **Waymont Consulting Ltd, Guildford, UK** (June 2012 - August 2012)    
 *Software Development Internship*  
 
@@ -68,4 +70,3 @@ I enjoy writing and blogging, having done so for a number of years, as well as r
 **North London Collegiate School Jeju, Jeju-do, Korea** (May 2013 - July 2013)
 *Student Teaching Assistant*
 
-For a comprehensive list of achievements and work experience, please see my [LinkedIn](https://www.linkedin.com/in/henrycooksley/).
