@@ -6,7 +6,7 @@ Fellow at Makers, learning principles of modern software development in an inten
 
 #### Problem solving
 
-In my previous job as an **Android developer intern**, I was faced with an unknown problem and **designed a custom solution in a matter of weeks**, learning **Java** from scratch. I have experience with practical and theoretical problem solving, during my time studying **Engineering** (1.5 years) and **Philosophy** (3 years). 
+In my previous job as an **Android developer intern**, I was faced with an unknown problem and **designed a custom solution in a matter of weeks**, learning **Java** from scratch. I have experience with practical and theoretical problem solving, during my time studying **Engineering** (1.5 years) and **Philosophy** (3 years) at undergraduate level. 
 
 - During my software development internship, I designed a proprietary Android application which interfaced with a defence communications antenna for Waymont Consulting Ltd, a contractor for the Ministry of Defence (MoD).
 - At the University of Cambridge, my highest exam results were in the Mathematics and Computing paper, where I learned basic C++.
