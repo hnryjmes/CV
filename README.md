@@ -1,9 +1,9 @@
-## *Henry Cooksley*
+## Henry Cooksley
 <img src="https://github.com/hnryjmes/CV/blob/master/assets/Henry%20profile%20picture.jpg?raw=true" width="100" height="100">
 
 Fellow at Makers, learning principles of modern software development in an intensive 12-week bootcamp. Former Android developer intern, teaching assistant, nonprofit cofounder. University of Bristol graduate. Looking for first junior developer role. Interested in AI and what's coming next.
 
-## Skills
+## *Skills*
 
 #### Problem solving
 
@@ -29,7 +29,7 @@ I enjoy writing and blogging, having done so for a number of years, as well as r
 - Goodreads profile (https://www.goodreads.com/user/show/72204726-henry-cooksley)
 
 
-## Education
+## *Education*
 
 #### Makers Academy (September 2018 - December 2018)
 
@@ -54,7 +54,7 @@ I enjoy writing and blogging, having done so for a number of years, as well as r
 - Highest exam results in Mathematics and Computing (C++) paper.
 - Treasurer of Sidney Sussex College Students' Union, where I was responsible for the annual budget and worked with the Cambridge University Sustainable and Responsible Investment Campaign (CUSRIC).
 
-## Experience
+## *Experience*
 
 **Waymont Consulting Ltd, Guildford, UK** (June 2012 - August 2012)    
 *Software Development Internship*  
