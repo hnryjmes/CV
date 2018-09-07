@@ -1,6 +1,6 @@
 ## Henry Cooksley
 
-![Profile Picture](assets/Henry profile picture.jpg)
+![Profile Picture](CV/assets/Henry profile picture.jpg)
 
 Fellow at Makers, learning principles of modern software development in an intensive 12-week bootcamp. Former Android developer intern, teaching assistant, nonprofit cofounder. University of Bristol graduate. Looking for a first junior developer role. Interested in AI and what's coming next.
 
