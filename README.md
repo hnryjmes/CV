@@ -46,7 +46,7 @@ I enjoy writing and blogging, having done so for a number of years, as well as r
 
 - BA, Philosophy, 2.1
 - First Class final year essays in Philosophy of Economics, and Philosophy of Psychology (Artificial Intelligence).
-- Set up and ran Effective Altruism Bristol, a local group promoting effective altruism through talks, workshops, and social events.
+- Set up and ran [Effective Altruism Bristol](https://www.facebook.com/EffectiveAltruismBristol), a local group promoting effective altruism through talks, workshops, and social events.
 
 #### University of Cambridge (September 2011 - March 2013)
 
