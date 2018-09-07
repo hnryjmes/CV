@@ -14,7 +14,7 @@ In my previous job as an Android developer intern, I was faced with an unknown p
 
 #### Programming language profiency
 
-I have been following the technology industry for over a decade, witnessing the change from desktop-first to mobile-first, as well as the rise of cloud computing and machine learning. To supplement this interest **I have used a number of programming languages**.
+I have been following the technology industry for over a decade, witnessing the change from desktop-first to mobile-first, as well as the rise of cloud computing and machine learning. To supplement this interest I have **used a number of programming languages**.
 - First website in **HTML** at age 10 (GeoCities, no longer online!).
 - First programming experience using **C++** at the University of Cambridge (pre-2015, they now teach Python).
 - First software development job (internship) using **Java** for the Android platform.
