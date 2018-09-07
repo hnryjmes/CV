@@ -57,15 +57,11 @@ I enjoy writing and blogging, having done so for a number of years, as well as r
 
 For a comprehensive list of achievements and work experience, please see my [LinkedIn](https://www.linkedin.com/in/henrycooksley/).
 
-**Waymont Consulting Ltd, Guildford, UK** (June 2012 - August 2012)    
-*Software Development Internship*  
+**Waymont Consulting Ltd, Guildford, UK** (June 2012 - August 2012) - *Software Development Internship*  
 
-**Take Note Ltd, London, UK** (June 2017 - May 2018) 
-*Freelance Consultant*
+**Take Note Ltd, London, UK** (June 2017 - May 2018) - *Freelance Consultant*
 
-**ImmerQi, Guangdong, China** (February 2014 - July 2014)
-*China TEFL Internship*
+**ImmerQi, Guangdong, China** (February 2014 - July 2014) - *China TEFL Internship*
 
-**North London Collegiate School Jeju, Jeju-do, Korea** (May 2013 - July 2013)
-*Student Teaching Assistant*
+**North London Collegiate School Jeju, Jeju-do, Korea** (May 2013 - July 2013) - *Student Teaching Assistant*
 
