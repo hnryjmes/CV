@@ -60,7 +60,7 @@ For a comprehensive list of achievements and work experience, please see my [Lin
 **Waymont Consulting Ltd, Guildford, UK** (June 2012 - August 2012)    
 *Software Development Internship*  
 
-**Take Note Ltd, London, UK** (June 2017 - May 2018)   
+**Take Note Ltd, London, UK** (June 2017 - May 2018) 
 *Freelance Consultant*
 
 **ImmerQi, Guangdong, China** (February 2014 - July 2014)
