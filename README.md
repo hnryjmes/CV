@@ -1,6 +1,6 @@
 # `<Henry Cooksley/>`
 <img src="https://github.com/hnryjmes/CV/blob/master/assets/Henry%20profile%20picture.jpg?raw=true" width="100" height="100">
-Software developer. Fellow at Makers, working on various team projects in an intensive 12-week bootcamp. Former Android developer intern, teaching assistant, nonprofit cofounder. University of Bristol graduate. Looking for a junior developer role. Interested in AI and what's coming next.
+Software developer. Fellow at Makers, worked on various team projects in an intensive 12-week bootcamp. Former Android developer intern, teaching assistant, nonprofit cofounder. University of Bristol graduate. Looking for a junior developer role. Interested in AI and what's coming next.
 
 ## *Skills*
 
