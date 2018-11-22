@@ -32,9 +32,9 @@ I enjoy writing and blogging, having done so for a number of years, as well as r
 
 #### Makers Academy (September 2018 - December 2018)
 
-- Curious and passionate about code. (Link to independent project page - AI)
-- Fast, independent learner (Link to final project page)
-- Great collaborator (Link to blog post detailing collaboration)
+- Curious and passionate about code. (recent weekend challenge: https://github.com/hnryjmes/news-summary-challenge)
+- Fast, independent learner (recent tech test: https://github.com/hnryjmes/FizzBuzzJava)
+- Great collaborator (recent team project: https://github.com/chloeverity/acebook-breakfast-club)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
