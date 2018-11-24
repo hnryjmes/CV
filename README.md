@@ -1,6 +1,5 @@
-# `<Henry Cooksley/>`
-<img src="https://github.com/hnryjmes/CV/blob/master/assets/Henry%20profile%20picture.jpg?raw=true" width="100" height="100">
-Full stack web developer. Fellow at Makers, learning principles of modern software development in an intensive 12-week bootcamp. Former Android developer intern, teaching assistant, nonprofit cofounder. University of Bristol graduate. Looking for first junior developer role. Interested in AI and what's coming next.
+# Henry Cooksley
+Software developer. Fellow at Makers, worked on various team projects in an intensive 12-week bootcamp. Former Android developer intern, teaching assistant, nonprofit cofounder. University of Bristol graduate. Looking for a junior developer role. Interested in AI and what's coming next.
 
 ## *Skills*
 
@@ -32,9 +31,9 @@ I enjoy writing and blogging, having done so for a number of years, as well as r
 
 #### Makers Academy (September 2018 - December 2018)
 
-- Curious and passionate about code. (Link to independent project page - AI)
-- Fast, independent learner (Link to final project page)
-- Great collaborator (Link to blog post detailing collaboration)
+- Curious and passionate about code. (see here: [recent weekend challenge](https://github.com/hnryjmes/news-summary-challenge))
+- Fast, independent learner (see here: [recent tech test](https://github.com/hnryjmes/FizzBuzzJava))
+- Great collaborator (see here: [recent team project](https://github.com/chloeverity/acebook-breakfast-club))
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
