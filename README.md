@@ -29,7 +29,7 @@ I enjoy writing and blogging, having done so for a number of years, as well as r
 #### Makers (September 2018 - December 2018)
 
 - Makers is a leading software development bootcamp based in London since 2012.
-- I learned software development fundamentals through online resources, pair programming, and various agile team projects, over an intensive and competitive 12-week course.
+- I learned software development fundamentals through online resources, pair programming, and various agile team projects, in an intensive, competitive 12-week course.
 - Technologies and methodologies: object-oriented design (OOD), test-driven development (TDD), model-view-controller (MVC), agile management, Ruby, Rails, JavaScript, Node.js, React, RSpec, Jasmine.
 
 #### University of Bristol (September 2014 - July 2017)
