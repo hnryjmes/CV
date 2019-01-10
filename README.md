@@ -1,44 +1,36 @@
 # Henry Cooksley
-Software developer with experience deploying nontrivial full stack applications using modern JavaScript and Ruby. Former Android developer intern, teaching assistant, nonprofit cofounder. University of Bristol graduate. Interested in AI and what's coming next.
+
+Software developer with experience deploying nontrivial, full stack applications using modern JavaScript and Ruby. Former Android developer intern, teaching assistant, nonprofit cofounder. University of Bristol graduate. Interested in AI and what's coming next.
 
 ## *Skills*
 
 #### Problem solving
 
-In my previous job as an **Android developer intern**, I was faced with an unknown problem and **designed a custom solution in a matter of weeks**, learning **Java** from scratch. I have experience with practical and theoretical problem solving, during my time studying **Engineering** (1.5 years) and **Philosophy** (3 years) at undergraduate level. 
+I have experience with practical and theoretical problem solving, having studied **Engineering** (1.5 years) and **Philosophy** (3 years) at undergraduate level. In a previous job as an **Android developer intern** (2.5 months), I learned basic Java and was able to prototype a small Android app using various APIs in only a few weeks.
 
-- During my software development internship, I designed a proprietary Android application which interfaced with a defence communications antenna for Waymont Consulting Ltd, a contractor for the Ministry of Defence (MoD).
-- At the University of Cambridge, my highest exam results were in the Mathematics and Computing paper, where I learned basic C++.
+- During my software development internship (2012) at Waymont Consulting Ltd, a contractor for the Ministry of Defence (MoD), I designed a proprietary Android application which interfaced with a defence communications antenna.
+- During my first year (2011-2012) at the University of Cambridge, my highest exam results were in the Mathematics and Computing paper.
 
-#### Programming language profiency
+#### Programming language proficiency
 
-I have been following the technology industry for over a decade, witnessing the change from desktop-first to mobile-first, as well as the rise of cloud computing and machine learning. To supplement this interest I have **used a number of programming languages**.
-- First website in **HTML** at age 10 (GeoCities, no longer online!).
-- First programming experience using **C++** at the University of Cambridge (pre-2015, they now teach Python).
-- First software development job (internship) using **Java** for the Android platform.
-- Self-taught languages: **Python** for Data Science (Udacity, DataCamp certificate), **HTML/CSS** (freeCodeCamp certificate), **JavaScript** (freeCodeCamp certificate).
+- **JavaScript** (self-taught, Makers bootcamp) - delivered a number of web applications using modern JavaScript (ES6+), simple command-line applications using Node.js, as well as limited experience using frontend frameworks including React.
+- **Ruby** (Makers bootcamp) - learned software development fundamentals using Ruby, plus delivered full stack web applications using Ruby on Rails, including an API-only Ruby on Rails backend as part of a split architecture application.
 
-#### Writing, art and design
+#### Communication and writing
 
-I enjoy writing and blogging, having done so for a number of years, as well as reading and reviewing books, primarily philosophy, science and social science. I am also a film photographer and digital artist.
+I enjoy writing and blogging, having done so for a number of years, as well as reading and reviewing books, primarily philosophy, science and social science. I am also a film photographer and digital artist. I am confident communicating what I'm working on to a large audience.
 
-- [Blog](https://medium.com/@hnryjmes), currently at Medium since 2018, and on WordPress pre-2014 (please ask for link!).
+- [Blog](https://medium.com/@hnryjmes), currently at Medium since 2018, and on WordPress pre-2014 (please ask for link!). My most recent post, reflecting on my learning experience over the past few months, was featured on the main Makers blog and can be viewed here: [Makers, week 12: minimum viable programmer (and finishing Makers!)](https://blog.makersacademy.com/makers-week-12-minimum-viable-programmer-and-finishing-makers-38b389ec6b01).
 - [Photography and art website](http://henrycooksley.com)
 - [Goodreads profile](https://www.goodreads.com/user/show/72204726-henry-cooksley)
 
-
 ## *Education*
 
-#### Makers Academy (September 2018 - December 2018)
+#### Makers (September 2018 - December 2018)
 
-- Curious and passionate about code. (see here: [recent weekend challenge](https://github.com/hnryjmes/news-summary-challenge))
-- Fast, independent learner (see here: [recent tech test](https://github.com/hnryjmes/FizzBuzzJava))
-- Great collaborator (see here: [recent team project](https://github.com/chloeverity/acebook-breakfast-club))
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Makers is a leading software development bootcamp based in London since 2012.
+- I learned software development fundamentals through online resources, pair programming, and various agile team projects, over an intensive and competitive 12-week course.
+- Technologies and methodologies: object-oriented design (OOD), test-driven development (TDD), model-view-controller (MVC), agile management, Ruby, Rails, JavaScript, Node.js, React, RSpec, Jasmine.
 
 #### University of Bristol (September 2014 - July 2017)
 
@@ -49,7 +41,7 @@ I enjoy writing and blogging, having done so for a number of years, as well as r
 #### University of Cambridge (September 2011 - March 2013)
 
 - First year of MEng, Engineering, (3)
-- Highest exam results in Mathematics and Computing (C++) paper.
+- Highest exam results in Mathematics and Computing paper.
 - Treasurer of Sidney Sussex College Students' Union, where I was responsible for the annual budget and worked with the Cambridge University Sustainable and Responsible Investment Campaign (CUSRIC).
 
 ## *Experience*
@@ -58,9 +50,15 @@ For a comprehensive list of achievements and work experience, please see my [Lin
 
 **Waymont Consulting Ltd, Guildford, UK** (June 2012 - August 2012) - *Software Development Internship*  
 
-**Take Note Ltd, London, UK** (June 2017 - May 2018) - *Freelance Consultant*
-
 **ImmerQi, Guangdong, China** (February 2014 - July 2014) - *China TEFL Internship*
 
 **North London Collegiate School Jeju, Jeju-do, Korea** (May 2013 - July 2013) - *Student Teaching Assistant*
 
+## *Projects*
+
+Name | Description | Technologies learned
+--- | --- | ---
+[Bank Tech Test](https://github.com/hnryjmes/bank-tech-test) (2018)  | Simple command-line application to model a bank account. Handles deposits, withdrawals, and prints bank statements. Used test-driven development and object-oriented design. | JavaScript, Node.js, Jasmine, ESLint.
+[News Summary Challenge](https://github.com/hnryjmes/news-summary-challenge) (2018)  | Single-page news summary app (Hacker News clone) using two APIs. Test-driven. |  JavaScript, my own testing framework, ESLint.
+[GIVEit](https://github.com/MugeHasilci/GIVEit-frontend) (2018)  | GIVEit is a social platform for connecting people in need with people offering goods and services that can help them. It is a split architecture web application with a React/JavaScript frontend and Rails API backend. | Ruby on Rails (API-only), RSpec, React, Jest, Enzyme, Cypress, Google Maps APIs, Material Design.
+Antenna Control Application (2012)  | The project was to build a software application to control and interact with an industrial communications antenna. The antenna was currently in development for a client and the project was intended to explore what user interface design benefits would be gained by using the Android computing platform. This application would run on a touchscreen mobile device, specifically an Android tablet. Before development began, research into Android development and the Java programming language was needed. On completion, a report was produced and a presentation was given to the company on the development of the application. The finished application issued proprietary control messages over a secured network connection to display real-time updates on azimuth position/GPS and a dynamic plot of the frequency spectrum traces from the antenna. The user interface demonstrated various ways of controlling the antenna, including using a built-in camera in conjunction with gyroscope sensors on the device, an intuitive touchscreen interface, and a custom Google Maps implementation. Both the Android software development kit and other online resources were used during the course of development. The application was developed in accordance with best practices for current Android software, including features such as a tabbed interface and application lifecycle management to conserve battery life.  |  Android, Java, Eclipse.
