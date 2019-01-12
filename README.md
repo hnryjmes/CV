@@ -31,7 +31,7 @@ I enjoy writing and blogging, having done so for a number of years, In 2019, I w
 - Makers is a leading software development bootcamp, based in London since 2012.
 - I learned software development fundamentals through online resources, pair programming, and various agile team projects, in an intensive, competitive 12-week course.
 - Technologies and methodologies: object-oriented design (OOD), test-driven development (TDD), model-view-controller (MVC), agile management, Ruby, Rails, JavaScript, Node.js, React, RSpec, Jasmine.
-- Achievements include 
+- Significant achievements include: successfully deploying a full stack web application with CI to Amazon Web Services in week 9 of the course, and writing modern asynchronous JavaScript API calls using Promises bringing our final project application from ~50% reliability to ~100% reliability in week 12 of the course.
 
 #### University of Bristol (September 2014 - July 2017)
 
