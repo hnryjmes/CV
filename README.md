@@ -57,6 +57,8 @@ For a comprehensive list of achievements and work experience, please see my [Lin
 
 ## *Projects*
 
+For more projects, please see my [GitHub](https://github.com/hnryjmes).
+
 Name | Description | Technologies learned
 --- | --- | ---
 [Bank Tech Test](https://github.com/hnryjmes/bank-tech-test) (2018)  | Simple command-line application to model a bank account. Handles deposits, withdrawals, and prints bank statements. Used test-driven development and object-oriented design. | JavaScript, Node.js, Jasmine, ESLint.
