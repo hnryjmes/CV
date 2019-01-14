@@ -13,8 +13,12 @@ I have experience with practical and theoretical problem solving, having studied
 
 #### Programming language proficiency
 
+###### Intermediate
 - **JavaScript** (self-taught, Makers bootcamp) - delivered a number of web applications using modern JavaScript (ES6+), simple command-line applications using Node.js, as well as limited experience using frontend frameworks including React.
 - **Ruby** (Makers bootcamp) - learned software development fundamentals using Ruby, plus delivered full stack web applications using Ruby on Rails, including an API-only Ruby on Rails backend as part of a split architecture application.
+
+###### Beginner
+- **Java** (self-taught) - experience with simple applications from various tutorials, including test-driven Java using JUnit, and the Spring Boot framework, plus Android experience from a previous job (2012).
 
 #### Communication and writing
 
