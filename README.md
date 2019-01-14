@@ -51,7 +51,7 @@ I have experience with practical and theoretical problem solving, having studied
 
 ## *Experience*
 
-For a comprehensive list of achievements and work experience, please see my [LinkedIn](https://www.linkedin.com/in/henrycooksley/).
+For more achievements and work experience, please see my [LinkedIn](https://www.linkedin.com/in/henrycooksley/).
 
 **Waymont Consulting Ltd, Guildford, UK** (June 2012 - August 2012) - *Software Development Internship*  
 
