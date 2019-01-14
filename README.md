@@ -4,13 +4,6 @@ Software developer with experience deploying nontrivial, full stack applications
 
 ## *Skills*
 
-#### Problem solving
-
-I have experience with practical and theoretical problem solving, having studied **Engineering** (1.5 years) and **Philosophy** (3 years) at undergraduate level. In a previous job as an **Android developer intern** (2.5 months), I learned basic Java and was able to prototype a small Android app using various APIs in only a few weeks.
-
-- During my software development internship (2012) at Waymont Consulting Ltd, a contractor for the Ministry of Defence (MoD), I designed a proprietary Android application which interfaced with a defence communications antenna.
-- During my first year (2011-2012) at the University of Cambridge, my highest exam results were in the Mathematics and Computing paper.
-
 #### Programming language proficiency
 
 ###### Intermediate
@@ -27,6 +20,13 @@ I enjoy writing and blogging, having done so for a number of years, In 2019, I w
 - [Blog](https://medium.com/@hnryjmes), currently at Medium since 2018, and on WordPress pre-2014 (please ask for link!). My most recent post, reflecting on my learning experience over the past few months, was featured on the main Makers blog and can be viewed here: [Makers, week 12: minimum viable programmer (and finishing Makers!)](https://blog.makersacademy.com/makers-week-12-minimum-viable-programmer-and-finishing-makers-38b389ec6b01).
 - [Photography and art website](http://henrycooksley.com)
 - [Goodreads profile](https://www.goodreads.com/user/show/72204726-henry-cooksley)
+
+#### Problem solving
+
+I have experience with practical and theoretical problem solving, having studied **Engineering** (1.5 years) and **Philosophy** (3 years) at undergraduate level. In a previous job as an **Android developer intern** (2.5 months), I learned basic Java and was able to prototype a small Android app using various APIs in only a few weeks.
+
+- During my software development internship (2012) at Waymont Consulting Ltd, a contractor for the Ministry of Defence (MoD), I designed a proprietary Android application which interfaced with a defence communications antenna.
+- During my first year (2011-2012) at the University of Cambridge, my highest exam results were in the Mathematics and Computing paper.
 
 ## *Education*
 
