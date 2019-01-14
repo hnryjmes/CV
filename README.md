@@ -7,7 +7,7 @@ Software developer with experience deploying nontrivial, full stack applications
 #### Programming language proficiency
 
 ###### Intermediate
-- **JavaScript** (self-taught, Makers bootcamp) - delivered a number of web applications using modern JavaScript (ES6+), simple command-line applications using Node.js, as well as limited experience using frontend frameworks including React.
+- **JavaScript** (self-taught, Makers bootcamp) - delivered a number of web applications using modern JavaScript (ES6+), basic command-line applications using Node.js, as well as limited experience using frontend frameworks including React.
 - **Ruby** (Makers bootcamp) - learned software development fundamentals using Ruby, plus delivered full stack web applications using Ruby on Rails, including an API-only Ruby on Rails backend as part of a split architecture application.
 
 ###### Beginner
