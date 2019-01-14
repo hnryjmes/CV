@@ -17,7 +17,7 @@ Software developer with experience deploying full stack applications using moder
 
 I enjoy writing and blogging. In 2019 I was shortlisted for a 'best blog' award for my weekly blog of my time at Makers. I also enjoy reading and reviewing books, primarily philosophy, science and social science. I am also a film photographer and digital artist. I am confident communicating what I'm working on to a large audience.
 
-- [Blog](https://medium.com/@hnryjmes), currently at Medium since 2018, and on WordPress pre-2014. My most recent post, reflecting on my learning experience over the past few months, was featured on the main Makers blog and can be viewed here: [Makers, week 12: minimum viable programmer (and finishing Makers!)](https://blog.makersacademy.com/makers-week-12-minimum-viable-programmer-and-finishing-makers-38b389ec6b01).
+- [Medium blog](https://medium.com/@hnryjmes) since 2018, and a WordPress blog pre-2014. My most recent post, reflecting on my learning experience over the past few months, was featured on the main Makers blog and can be viewed here: [Makers, week 12: minimum viable programmer (and finishing Makers!)](https://blog.makersacademy.com/makers-week-12-minimum-viable-programmer-and-finishing-makers-38b389ec6b01).
 - [Photography and art website](http://henrycooksley.com)
 - [Goodreads profile](https://www.goodreads.com/user/show/72204726-henry-cooksley)
 
