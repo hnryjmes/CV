@@ -1,6 +1,6 @@
 # Henry Cooksley
 
-Software developer with experience deploying nontrivial, full stack applications using modern JavaScript and Ruby. Former Android developer intern, teaching assistant, nonprofit cofounder. University of Bristol graduate. Interested in AI and what's coming next.
+Software developer with experience deploying full stack applications using modern JavaScript and Ruby. Former Android developer intern, teaching assistant, nonprofit cofounder. University of Bristol graduate. Interested in AI and what's coming next.
 
 ## *Skills*
 
