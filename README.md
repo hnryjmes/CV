@@ -34,7 +34,7 @@ I have experience with practical and theoretical problem solving, having studied
 
 - Makers is a leading software development bootcamp, based in London since 2012.
 - I learned software development fundamentals through online resources, pair programming, and various agile team projects, in an intensive, competitive 12-week course.
-- Technologies and methodologies: object-oriented design (OOD), test-driven development (TDD), model-view-controller (MVC), agile management, Ruby, Rails, JavaScript, Node.js, React, RSpec, Jasmine.
+- Technologies and methodologies: object-oriented design (OOD), test-driven development (TDD), model-view-controller (MVC), agile management, Ruby, Rails, JavaScript, Node.js, React, RSpec, Jasmine, Jest, Enzyme, Cypress.
 - Significant achievements include: successfully deploying a full stack web application with continuous integration (CI) to Amazon Web Services (week 9) and writing modern asynchronous JavaScript API calls using Promises bringing our final project application from ~50% reliability to ~100% reliability (week 12).
 
 #### University of Bristol (September 2014 - July 2017)
